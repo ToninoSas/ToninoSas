@@ -7,12 +7,6 @@ Sono un ragazzo molto curioso che ama capire e imparare come e perché le cose f
 ---
 
 ### 🛠 Cosa so fare:
-- **Linguaggi:** Python, Java, C/C++, SQL, JavaScript (ES6+).
-- **Frontend:** Next.js, React.
-- **Backend:** Flask, Node.js (learning), gestione DBMS (MySQL, SQLite), REST API.
-- **Mobile:** Flutter (Dart).
-- **Tools & OS:** Git, Linux (CLI).
-
 - **Conoscenze base in:** Python, JavaScript, SQL, Java, C/C++.
 - **Web & Mobile:** Next.js (React), Flask, Flutter.
 - **Database & Cloud:** MySQL, SQLite, Firebase
