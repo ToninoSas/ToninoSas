@@ -1,9 +1,9 @@
 # Ciao, sono Antonio Prencipe 👋
 
-### 🎓 Studente di Informatica @ Università di Bari 
+### 🎓 Studente triennale di Informatica presso Università di Bari 
 
-Sono un ragazzo molto curioso che ama capire e imparare come e perché le cose funzionano. Grazie all’università e al mio studio da autodidatta, negli anni ho sviluppato capacità di problem solving e di apprendimento rapido necessarie per farmi passare senza non troppe difficoltà da una tecnologia ad un altra.  
-
+Sono un ragazzo molto curioso che ama capire e imparare come e perché le cose funzionano, mettendomi sempre in gioco. Grazie all’università e al mio studio da autodidatta, non ho difficoltà a passare da una tecnologia ad un altra.  
+Interessato in AI. Argomento tesi triennale: "Classificatore per determinare segnali di allucinazione all'interno di un LLM con funzioni agentiche di tool calling" 
 ---
 
 ### 🛠 Cosa so fare:
@@ -17,11 +17,10 @@ Sono un ragazzo molto curioso che ama capire e imparare come e perché le cose f
 ### 🚀 Progetti in evidenza:
 - **[Instagram API Clone](https://github.com/ToninoSas/instagram_api.git):** Backend RESTful che simula il funzionamento di quello di Instagram, sviluppato con Flask e SQL.
 - **[Next.js Web App](https://github.com/ToninoSas/remind-app.git):** Progetto fatto all'università con Next.js.
-
+- **[Allucination Detection](https://github.com/ToninoSas/mcpsuite):** Classificatore capace di determinare segnali di allucinazione all'interno di un LLM con funzioni agentiche di tool calling.
+- **[Log4Shell POC](https://github.com/ToninoSas/log4shell-lab):** Proof of Concept di Log4shell, applicata a Minecraft.
 ---
 
 ### 📫 Contatti:
-- 💼 LinkedIn: [Inserisci Link]
+- 💼 LinkedIn: [Antonio Prencipe](https://www.linkedin.com/in/antonio-prencipe/)
 - 📧 Email: antonioprencipe2004@gmail.com
-
-*"Il software è il punto d'incontro tra logica economica e innovazione tecnologica."*
