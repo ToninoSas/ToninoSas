@@ -1,9 +1,10 @@
 # Ciao, sono Antonio Prencipe 👋
 
-### 🎓 Studente triennale di Informatica presso Università di Bari 
+### 🎓 Studente triennale di Informatica presso Università di Bari
 
 Sono un ragazzo molto curioso che ama capire e imparare come e perché le cose funzionano, mettendomi sempre in gioco. Grazie all’università e al mio studio da autodidatta, non ho difficoltà a passare da una tecnologia ad un altra.  
 Interessato in AI. Argomento tesi triennale: "Classificatore per determinare segnali di allucinazione all'interno di un LLM con funzioni agentiche di tool calling" 
+
 ---
 
 ### 🛠 Cosa so fare:
